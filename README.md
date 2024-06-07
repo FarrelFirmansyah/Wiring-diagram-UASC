@@ -17,7 +17,7 @@ Pada tugas UASC kali ini membuat sebuah skematik wiring diagram mobil untuk bagi
    
    ![Screenshot (249)](https://github.com/FarrelFirmansyah/Wiring-diagram-UASC/assets/171840782/7ab576f8-40bf-43fe-af44-94caf318b4f2)
 
-5. pada bagian konverter input GND dan 12V+, selanjutnya mengarah ke contact safety atau contactor input yang sama, untuk 12V + melewati fuse dan starter terlebih dahulu sebelum ke contactor.
+5. pada bagian konverter input GND dan 12V+, selanjutnya mengarah ke contact safety atau contactor input yang sama, untuk 12V + melewati fuse (fuse berfungsi sebagai pelindung atau pemutus aliran listrik saat terjadi gangguan atau kelebihan arus yang dapat menyebabkan kerusakan atau bahkan kebakaran) dan starter terlebih dahulu sebelum ke contactor.
 
    ![Screenshot (251](https://github.com/FarrelFirmansyah/Wiring-diagram-UASC/assets/171840782/4a97c9ed-6b75-4e1f-af80-3db5d946cd9f)
 
